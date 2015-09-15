@@ -1,6 +1,5 @@
-package agent;
+package ethan.agent;
 
-import ethan.agent.Agent;
 import junit.framework.TestCase;
 
 /**
